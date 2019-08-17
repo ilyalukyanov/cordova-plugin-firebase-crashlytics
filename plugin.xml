@@ -72,7 +72,7 @@
       <pods use-frameworks="true">
         <pod name="Fabric"/>
         <pod name="Crashlytics" />
-        <pod name="FirebaseCore" spec="~> 6.3.0" />
+        <pod name="FirebaseCore" spec="~> 6.0.3" />
       </pods>
     </podspec>
 
